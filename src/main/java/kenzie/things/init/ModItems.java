@@ -10,5 +10,8 @@ public class ModItems {
 	
 	@ObjectHolder("kenziesmod:item2")
 	public static final Item HacktoberFestItem2 = new Item(new Item.Properties().group(KenziesMod.KenzieTab));
+	
+	@ObjectHolder("kenziesmod:item3")
+	public static final Item HacktoberFestItem3 = new Item(new Item.Properties().group(KenziesMod.KenzieTab));
 
 }
