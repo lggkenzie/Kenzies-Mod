@@ -16,5 +16,8 @@ public class ModItems {
 	
 	@ObjectHolder("kenziesmod:item4")
 	public static final Item HacktoberFestItem4 = new Item(new Item.Properties().group(KenziesMod.KenzieTab));
+	
+	@ObjectHolder("kenziesmod:item5")
+	public static final Item HacktoberFestCheatAdmit = new Item(new Item.Properties().group(KenziesMod.KenzieTab));
 
 }
